@@ -1,3 +1,5 @@
+//小写转大写输出字符，askii码，内存大小
+
 #include<stdio.h>
 int main(){
     char ch; 
